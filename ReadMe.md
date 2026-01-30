@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, I'm Murli 👋<br>I am a passionate software developer with a focus on Mern Stack , Core Java ,  Java DSA . React Native , Git/Github , tailwind css<br><br>## 🚀 About Me<br>- 🔭 I’m currently working on SMR and DTC.<br>- 🌱 I’m currently learning Cyber Security .<br>- 👯 I’m looking to collaborate on SMR(ShareMyRide).<br>- 🤔 I’m looking for help with AI .<br>- 💬 Ask me about Mern Development.<br>- 📫 How to reach me: murlikrishnanaral2004@gamil.com<br>- ⚡ My fact : I am a lazy one who prefers smart work over hardwork and even though I not step back for doing Hardworks.<br>
+# Hello, I'm Murli 👋<br>I am a passionate software developer with a focus on Mern Stack , Java , Javascirpt , Java SpringBoot , Java DSA , React.js & React Native , Git/Github , tailwind css<br><br>## 🚀 About Me<br>- 🔭 I’m currently working on SMR and Ezturn.<br>- 🌱 I’m currently learning Cyber Security .<br>- 👯 I’m looking to collaborate on SMR(ShareMyRide).<br>- 🤔 I’m looking for help with AI .<br>- 💬 Ask me about Full Stack Development.<br>- 📫 How to reach me: murlikrishnanaral2004@gmail.com<br>- ⚡ My fact : I am a lazy one who prefers smart work over hardwork and even though I not step back for doing Hardworks.<br>
 
 
 ## 🌐 Socials:
